@@ -2,4 +2,4 @@
 
 <br>
 
-![Porter](/Porter&20Dash.png)
+![Porter](https://raw.githubusercontent.com/PratyushPuri/Porter-Delivery-Analytics/refs/heads/main/Porter%20Dash.png)
