@@ -74,7 +74,7 @@ This dashboard offers an overview of Porter Delivery's main performance metrics.
 
 This dashboard centralizes key data, allowing management to monitor operational health, link busy days with delivery delays, and make informed choices to improve the delivery network.
 
-![Porter](https://raw.githubusercontent.com/PratyushPuri/Porter-Delivery-Analytics/refs/heads/main/Porter%20Dash.png)
+![Porter](Porter%20Dash.png)
 
 ## **How to Use the Dashboard**
 
